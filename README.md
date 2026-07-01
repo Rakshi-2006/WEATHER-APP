@@ -81,7 +81,7 @@ Weather icons
 Geolocation support
 Responsive design
 👨‍💻 Author
-Sarulatha Srinivasan
+RAKSHITHA S
 B.Tech Information Technology
 Panimalar Engineering College
 📜 License
